@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Prof. XXX YYY ZZZ Wins First Place in the Sustainable Wood Infrastructure Prize
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Prof. XXX YYY ZZZ for winning first place in the Sustainable Wood Infrastructure Prize.
 
 <!--more-->
 
