@@ -1,9 +1,9 @@
 ---
-title: Prof. XXX YYY ZZZ Win the Best Paper Award at Sustainable Wood Infrastructure 2021
+title: Dr. AAA BBB CCC and Prof. XXX YYY ZZZ Win the Best Paper Award at Sustainable Wood Infrastructure 2021
 date: 2020-12-02
 ---
 
-Congratulations to Prof. XXX YYY ZZZ for winning the Best Paper Award at the 2021 Sustainable Wood Infrastructure for their paper “Learning by Doing”.
+Congratulations to Dr. AAA BBB CCC and Prof. XXX YYY ZZZ for winning the Best Paper Award at the 2021 Sustainable Wood Infrastructure for their paper “Learning by Doing in Mountain Wood for Sustainable Infrastructure”.
 
 <!--more-->
 
