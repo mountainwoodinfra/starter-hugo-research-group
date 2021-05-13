@@ -1,23 +1,10 @@
 ---
-title: Wood infrastructure for Mountain Sustainability
+title: The Challenge
 type: book  # Do not modify.
 toc: false
 ---
-The continuous sinking of the Indian tectonic plate below the Eurasian plate has been causing
-frequent earthquakes across the entire Himalayan region. As Nepal lies in the central part of Himalya,
-and occupies major of it, Earthquake is part of a well-established geological process in the country.
-The 7.8 magnitude Gorkha earthquake struck Nepal on April 25, 2015 killing 8,800 people, injuring
-tens of thousands more and leaving many homeless. Moreover, it caused an estimated $7 billion in
-damages which is a third of the Nepal’s economy.\
-Underlying systemic conditions, including chronic poverty in the country’s rural areas, weak
-governance, lack of technical capacities and an unmanaged increase in urbanization hit the country’s
-infrastructure hard, laying the groundwork for disastrous outcomes. Lack of livelihood options push
-rural populations to migrate to the cities where they end up living in hazard-prone urban landscapes,
-often becoming the victims in disasters. This dynamic holds true not just in Nepal, but throughout the
-entire Himalayan region.\
-One value chain that offers the potential to reduce risk in a systemic way is the construction of urban
-infrastructures (i.e. housing and public buildings e.g. schools, government offices etc.) using
-locally/nationally sourced timber and bamboo. Advancements in wood engineering technology can
-provide earthquake-resistant infrastructure and enhance forestry related rural livelihoods, reducing
-migratory pressure on urban areas in Nepal. At the same time, sustainably harvested wood-based
-construction can provide unique carbon sequestration opportunities for Nepal.
+The massive earthquake that rattled Nepal in 2015 highlighted how systemic conditions, such as poverty, weak governance, lack of technical capacities and unmanaged urbanization, increase human vulnerability. Also known as the Gorkha earthquake because its epicenter struck Barpak village in the Gorkha district about 80 kilometers northeast of the country’s capital city Kathmandu, it not only caused thousands of casualties, but destabilized the country socially and economically.\
+Systemic (socio-economic, natural and governance) conditions across Himalaya have led to increased risk of earthquake related disasters. Persistent lack of livelihood opportunities in rural Himalaya has pushed rural populations to migrate to urban areas in search of better employment opportunities creating a demand for cheap housing. Sustained demand for cheap housing in urban areas under weak governance is often met by poor and unsafe housing construction in hazard (instability, landslides, and floods) prone fragile landscapes. Such unsafe housing conditions expose urban poor to the impacts of earthquakes disproportionately.\
+Establishing systemic solutions to reduce disaster risks should involve tackling both the hazard – the earthquake itself e.g. zoning, the quality of buildings etc. -- and the root causes of the vulnerability, including poverty, poor building technology, governance and the destabilizing effects of rural to urban migration.\
+The project envisions demonstrating how nature-based solutions, especially utilizing sustainably produced domestic timber and bamboo products, can provide a unique opportunity to reduce both the risks associated to earthquake and rural to urban migration. We propose that by investigating opportunities for developing wood-based infrastructure and establishing relevant supply-chains and improvement in governance institutions that are appropriate to Nepal, an earthquake-resistant urban infrastructure can be constructed. We suggest that through this process, the rapid growth of urbanization (in hazardous landscapes) can be simultaneously reduced due to related job creation, increasing the potential for earnings, and improving rural livelihoods. We also propose to explore potentiality of policy intervention in relevant sectors (e.g. construction, environmental, forestry, disaster risk reduction, market sectors) in enabling and promoting wood-based infrastructure. The project will focus on opportunities and challenges related to building wood-based infrastructure -- including residential buildings and public infrastructure -- to reduce the risk of damages caused by earthquakes in urban areas and by increasing resilience of rural communities by enhancing livelihood opportunities associated to value addition of extracted timber and bamboo products. Furthermore, we will assess the feasibility of such interventions within the current socio-economic and political context of Nepal, facilitating stakeholders to co-design and implement nature-based solutions to address systemic conditions. This project apart from reducing the risk from earthquakes, will enhance Nepal’s Nationally Determined Contributions under the U.N. Paris Agreement to prevent average temperatures from rising to 1.5 degrees Celsius through  enhanced carbon stocks sequestration and a reduction of greenhouse gas (GHG) emissions using innovative transformational approaches towards reduction and replacement of fossil-fuel based construction materials with sustainably sourced wood, and creating wood-based industries in rural areas.
+
