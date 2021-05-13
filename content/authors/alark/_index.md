@@ -4,7 +4,7 @@ title: Dr. Alark Saxena
 
 # Username (this should match the folder name)
 authors:
-- Dr. Alark Saxena 
+- Dr. Alark Saxena
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Asst Professor, Human Dimensions of Forestry
 # Organizations/Affiliations
 organizations:
 - name: Northern Arizona University
-  url: ""
+  url: "https://directory.nau.edu/person/as4635"
 
 # Short bio (displayed in user profile at end of posts)
 
