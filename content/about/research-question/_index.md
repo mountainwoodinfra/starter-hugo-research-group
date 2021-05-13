@@ -2,6 +2,9 @@
 title: II.Research Questions
 type: book  # Do not modify.
 toc: true
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
 ---
 Several questions still need to be answered to assess the feasibility of such an ambitious intervention within the current socio-economic, environmental, and political context. The key question is: What are the opportunities and challenges for wood-based urban infrastructure in Nepal with respect to disaster risk reduction? This broad question should be approached through a set of specific studies building on each other to be conducted in phases: 
 
