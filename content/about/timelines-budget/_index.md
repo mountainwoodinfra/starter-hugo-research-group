@@ -2,6 +2,9 @@
 title: VII.Timelines and Budget  
 type: book  # Do not modify.
 toc: false
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 7
 ---
 The project has been conceptualized as a phased project. The total timeline for the project will be five years. We envision three main phases of the project:
 1. Establishment of a Knowledge Exchange Platform through review and compilation of existing information and data around feasibility of wood-based infrastructure 
