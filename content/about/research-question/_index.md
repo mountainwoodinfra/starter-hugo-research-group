@@ -7,15 +7,15 @@ Several questions still need to be answered to assess the feasibility of such an
 
 ## 1.	Value chains and production capacity
    Do forests in Nepal have the capacity to meet the potential demand for wood-based infrastructure in urban areas? \
-    1.1.	What is the potential scale of demand for wood-based infrastructure to reduce earthquake risk in urban infrastructure in Nepal?\
-      1.1.1.	Who are the key stakeholders (market, government, and international development partners) that can support the future of a wood-based infrastructure related industry?\
-      1.1.2.	What are the knowledge, attitudes and practices (KAP) of key stakeholders toward wood-based infrastructure for disaster risk reduction of urban environments?\
-      1.1.3.	What key urban infrastructures can/should be developed through wood-based infrastructure?\
-      1.1.4.	What are competing uses of wood (e.g. wood for heating, cooking and overall energy generation, e.g. electricity)?\
-    1.2.	Given the stated national policy to maintain 40% forest cover in perpetuity, how will demand for wood-based infrastructure influence this goal?\
-      1.2.1.	What are the current forest resources, their use in urban infrastructure development and associated supply chain?\
-      3.2.2.	What species are available and can be used for wood-based infrastructure? Of what quality, quantity and in what locations and how accessible are they?\
-      4.2.3.	What additional actions (reforestation. afforestation, including import of timber etc.) and technologies will be needed to meet the potential demand for wood-based infrastructure?
+    1.1.  What is the potential scale of demand for wood-based infrastructure to reduce earthquake risk in urban infrastructure in Nepal?\
+      1.1.1.  Who are the key stakeholders (market, government, and international development partners) that can support the future of a wood-based infrastructure related industry?\
+      1.1.2.  What are the knowledge, attitudes and practices (KAP) of key stakeholders toward wood-based infrastructure for disaster risk reduction of urban environments?\
+      1.1.3.  What key urban infrastructures can/should be developed through wood-based infrastructure?\
+      1.1.4.  What are competing uses of wood (e.g. wood for heating, cooking and overall energy generation, e.g. electricity)?\
+    1.2.  Given the stated national policy to maintain 40% forest cover in perpetuity, how will demand for wood-based infrastructure influence this goal?\
+      1.2.1.  What are the current forest resources, their use in urban infrastructure development and associated supply chain?\
+      3.2.2.  What species are available and can be used for wood-based infrastructure? Of what quality, quantity and in what locations and how accessible are they?\
+      4.2.3.  What additional actions (reforestation. afforestation, including import of timber etc.) and technologies will be needed to meet the potential demand for wood-based infrastructure?
 
 ## 2.	Policies
    What policy (construction, environmental, forestry, disaster risk reduction, market) opportunities and challenges lie in enabling wood-based infrastructure?
