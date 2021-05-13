@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Assistant Professor
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Web Admin
 
 # Organizations/Affiliations
 organizations:
@@ -65,9 +65,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Administration
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sanjeeb Bhattarai is an Assistant Professor at Institute of Forestry (IOF), Tribhuvan University (TU), Nepal; interested in socio-ecological systems, data science and their intersections. He is most passionate about developing data science tools and practices to understand complex socio-ecological systems, and translating data into informative visualizations.
