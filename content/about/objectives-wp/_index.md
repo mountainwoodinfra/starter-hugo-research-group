@@ -3,7 +3,7 @@ title: III.Specific Objectives and Work Packages (WP)
 type: book  # Do not modify.
 toc: true
 ---
-The above stated [Research Questions](<relref "/about/research-question">) can be answered through specific Work Packages (WPs) completed in a phased manner:
+The above stated [Research Questions]("https://mountain-wood-infra.netlify.app/about/research-question") can be answered through specific Work Packages (WPs) completed in a phased manner:
 ## 1.	PHASE-I
 **Knowledge Exchange Platform (Work Package 1)**\
 1.1.	Build an open online platform that provides access to database compiling all available biophysical and spatial data on forest resources, distribution and their use in infrastructure development with consistent formatting, naming conventions, and metadata requirements (questions 1.2.1 & 1.2.2). The online interface will enhance in-country science capacity, provide opportunities for both technical and general communities for networking, and provide opportunities for public-private partnerships.\
