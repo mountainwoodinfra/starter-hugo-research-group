@@ -1,7 +1,7 @@
 ---
 title: I. Background
 type: book  # Do not modify.
-toc: false
+toc: true
 ---
 A 7.8 magnitude earthquake struck Nepal on April 25, 2015 killing 8,800 people, injuring tens of thousands more and leaving many homeless (Goda et al., 2015). 
 Nepal’s powerful earthquake was part of a well-established geological process – the continuous sinking of the Indian tectonic plate below the Eurasian plate – 
