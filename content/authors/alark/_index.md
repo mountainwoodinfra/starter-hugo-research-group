@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Dr. Alark Saxena](https://directory.nau.edu/person/as4635)
+title: Dr. Alark Saxena
 
 # Username (this should match the folder name)
 authors:
