@@ -6,7 +6,7 @@ title: Sanjeeb Bhattarai
 superuser: true
 
 # Role/position
-role: Web Admin
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -49,4 +49,3 @@ highlight_name: false
 user_groups:
 - Administration
 ---
-Sanjeeb Bhattarai is an Assistant Professor at Institute of Forestry (IOF), Tribhuvan University (TU), Nepal; interested in socio-ecological systems, data science and their intersections. He is most passionate about developing data science tools and practices to understand complex socio-ecological systems, and translating data into informative visualizations.
