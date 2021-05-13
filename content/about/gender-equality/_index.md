@@ -2,6 +2,9 @@
 title: VI.Gender and Equality 
 type: book  # Do not modify.
 toc: false
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 6
 ---
 Forestry user groups have a significant membership of women and other marginalized groups. 
 The project will make substantial efforts to enhance and empower such groups. Skill development across 
