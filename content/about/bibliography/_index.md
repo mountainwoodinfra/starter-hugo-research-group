@@ -2,6 +2,8 @@
 title: IX.Bibliography
 type: book  # Do not modify.
 toc: false
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 9
 ---
 - Anderson, J., Mehta, S., Epelu, E., & Cohen, B. (2015). Managing leftovers: Does community forestry increase secure and equitable access to 
 valuable resources for the rural poor? Forest Policy and Economics, 58, 47–55.\
