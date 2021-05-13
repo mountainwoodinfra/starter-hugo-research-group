@@ -2,6 +2,8 @@
 title: III.Specific Objectives and Work Packages (WP)
 type: book  # Do not modify.
 toc: true
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
 ---
 The above stated [Research Questions](https://mountain-wood-infra.netlify.app/about/research-question) can be answered through specific Work Packages (WPs) completed in a phased manner:
 ## 1.	PHASE-I
