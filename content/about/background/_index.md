@@ -39,7 +39,9 @@ we intend to investigate the potential role of securely constructed wood-based i
 scenarios. If cities and rural areas have stronger buildings, they will be more resistant to shaking. Overall, this means fewer casualties due to safety 
 measures implemented in structures. At the same time, if rural areas have increased livelihood opportunities, it will reduce the rural to urban migration. 
 Thus, reducing the pressure of cheap housing in cities.\
+
 ## Nepal’s forestry
+
 An impressive number of studies have been conducted on the sustainability of forests and their contribution to rural and urban 
 development in Nepal. Studies such as the Forest Resource Assessment (Nepal, 2015) and the Nepal Forestry outlook study (Gumartini, 2009) are just 
 two  that give a broad and multidimensional understanding of Nepal forests. Studies focusing on wood production, demand and associated gaps have been 
@@ -51,7 +53,9 @@ There seems to be a large amount of uncertainty in terms of the estimation of th
 ranges from 3% close to 15%, according to some studies. Demands have been made to examine the contribution of community-based forestry enterprises to the 
 local economy (Dhakal et al., 2018). At the same time, a systematic evaluation of Nepal’s wood industry supply chain has not been done. There are no recent 
 studies that evaluate the potential for value addition of wood products.\
+
 ## Urban vulnerabilities in Nepal
+
 Rural to urban migration is characteristic across the Himalayan region (Banerjee et al., 2014; Goodall, 2004; 
 Hoermann & Kollmair, 2009; Tiwari & Joshi, 2015). Dynamic forces such as migration under relatively poor governance create pressure and hence demand for 
 easily built and less expensive housing, incentivizing construction of houses in hazardous landscapes with poor building quality (Bhattarai & Conway, 2010). 
@@ -62,7 +66,9 @@ even with regard to cement and concrete buildings, increased use of marginal lan
 training and knowledge transfer around building construction have been identified as the key reasons for the massive loss of lives during 2015 Nepal 
 earthquake (Bothara et al., 2018). Using earthquake resistant building material, reinforcement of existing structures, knowledge transfer and training 
 of artisans across the country are key recommendations made through DRR strategies.\
+
 ## Advances in wood-based construction
+
 Since the 1960s, significant advances have been made in wood-based technology. The interest in mass timber products 
 including cross-laminated timber, glue-laminated timber (glulam), (laminated veneer lumber (LVL) or plywood products emerged from the timber industry’s 
 need to find greater use of the unused raw wood products. Cross-laminated timber (CLT) was patented in 1990s (as a stiff plate shaped wood product 
