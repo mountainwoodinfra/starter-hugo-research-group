@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sanjeeb Bhattarai
+title: Mr. Sanjeeb Bhattarai
 
 # Is this the primary user of the site?
 superuser: true
