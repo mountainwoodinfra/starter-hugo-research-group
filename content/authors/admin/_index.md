@@ -10,7 +10,7 @@ role: Web Admin
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Institute of Forestry, Tribuvan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
