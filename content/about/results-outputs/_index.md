@@ -2,6 +2,8 @@
 title: IV.Expected Results and Outputs  
 type: book  # Do not modify.
 toc: false
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 4
 ---
 1.	Review and assessment of forest resources ascertaining the feasibility of wood-based infrastructure in urban areas of Nepal 
 2.	Identification of specific key urban infrastructure (types) that can be prioritized to be constructed through wood for earthquake risk reduction
