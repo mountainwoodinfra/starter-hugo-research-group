@@ -14,6 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
+Sanjeeb Bhattarai is an Assistant Professor at Institute of Forestry (IOF), Tribhuvan University (TU), Nepal.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
