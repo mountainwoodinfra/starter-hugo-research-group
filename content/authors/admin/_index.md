@@ -11,7 +11,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Institute of Forestry, Tribuvan University
-  url: ""
+  url: "https://www.sanjeeb.name.np/"
 
 # Short bio (displayed in user profile at end of posts)
 
