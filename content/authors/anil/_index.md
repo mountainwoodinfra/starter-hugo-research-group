@@ -14,7 +14,7 @@ role: Chief Executive
 
 # Organizations/Affiliations
 organizations:
-- name: National DisasterRisk Reduction & Management Authority, Government of Nepal
+- name: National Disaster Risk Reduction & Management Authority, Government of Nepal
   url: "https://www.linkedin.com/in/anil-pokhrel-b86b2837/"
 
 # Short bio (displayed in user profile at end of posts)
