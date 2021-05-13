@@ -2,6 +2,8 @@
 title: VIII.Collaborators  
 type: book  # Do not modify.
 toc: false
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 8
 ---
 1.	Dr. Alark Saxena is an Asst Professor, Human Dimensions of Forestry, School of Forestry, NAU [PROFILE](https://directory.nau.edu/person/as4635) EMAIL: alark.saxena@nau.edu 
 2.	Dr. Yeon-Su Kim is a Professor, Ecological Economics, School of Forestry NAU [PROFILE](https://directory.nau.edu/person/ysk) EMAIL: yeon-su.kim@nau.edu
