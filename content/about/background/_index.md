@@ -38,7 +38,7 @@ enhancing livelihood opportunities associated with value addition of extracted t
 we intend to investigate the potential role of securely constructed wood-based infrastructure in stabilizing both rural and urban areas in post-earthquake 
 scenarios. If cities and rural areas have stronger buildings, they will be more resistant to shaking. Overall, this means fewer casualties due to safety 
 measures implemented in structures. At the same time, if rural areas have increased livelihood opportunities, it will reduce the rural to urban migration. 
-Thus, reducing the pressure of cheap housing in cities.\
+Thus, reducing the pressure of cheap housing in cities.
 
 ## Nepal’s forestry
 
@@ -52,7 +52,7 @@ resources are still managed by the state while degraded landscapes have been (fr
 There seems to be a large amount of uncertainty in terms of the estimation of the forestry sector’s contribution to Nepal’s gross domestic product which 
 ranges from 3% close to 15%, according to some studies. Demands have been made to examine the contribution of community-based forestry enterprises to the 
 local economy (Dhakal et al., 2018). At the same time, a systematic evaluation of Nepal’s wood industry supply chain has not been done. There are no recent 
-studies that evaluate the potential for value addition of wood products.\
+studies that evaluate the potential for value addition of wood products.
 
 ## Urban vulnerabilities in Nepal
 
@@ -65,7 +65,7 @@ and 25% of the houses (primarily in the Terai region) are wooden (Chaulagain et 
 even with regard to cement and concrete buildings, increased use of marginal lands and inadequate incorporation of seismic risks compounded with limited 
 training and knowledge transfer around building construction have been identified as the key reasons for the massive loss of lives during 2015 Nepal 
 earthquake (Bothara et al., 2018). Using earthquake resistant building material, reinforcement of existing structures, knowledge transfer and training 
-of artisans across the country are key recommendations made through DRR strategies.\
+of artisans across the country are key recommendations made through DRR strategies.
 
 ## Advances in wood-based construction
 
