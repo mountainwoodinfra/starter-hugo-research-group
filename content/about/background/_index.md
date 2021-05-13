@@ -1,10 +1,3 @@
-# Title, summary, and page position.
-linktitle: Background
-summary: 
-weight: 1
-# icon:
-# icon_pack:
-
 # Page metadata.
 title: I. Background
 date: "2021-02-28T00:00:00Z"
