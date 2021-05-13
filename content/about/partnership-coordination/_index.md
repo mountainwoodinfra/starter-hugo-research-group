@@ -2,6 +2,9 @@
 title: V.Partnership/ Coordination 
 type: book  # Do not modify.
 toc: false
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 5
 ---
 The planned study and associated projects will require a coordinated effort with several technical and local partners.
 The project outputs are geared toward policymakers, local communities, market players and international partners. 
