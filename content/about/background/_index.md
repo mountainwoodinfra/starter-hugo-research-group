@@ -1,9 +1,9 @@
 # Title, summary, and page position.
-linktitle: background
+linktitle: Background
 summary: 
 weight: 1
-icon:
-icon_pack:
+# icon:
+# icon_pack:
 
 # Page metadata.
 title: I. Background
