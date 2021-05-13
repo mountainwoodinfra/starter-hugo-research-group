@@ -1,3 +1,8 @@
+---
+title: Wood infrastructure for Mountain Sustainability
+type: book  # Do not modify.
+toc: false
+---
 The continuous sinking of the Indian tectonic plate below the Eurasian plate has been causing
 frequent earthquakes across the entire Himalayan region. As Nepal lies in the central part of Himalya,
 and occupies major of it, Earthquake is part of a well-established geological process in the country.
