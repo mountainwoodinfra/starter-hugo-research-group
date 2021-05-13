@@ -4,7 +4,7 @@ title: Dr. Himlal Baral
 
 # Username (this should match the folder name)
 authors:
-- himlal
+- Dr. Himlal Baral
 
 # Is this the primary user of the site?
 superuser: false
