@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dr. Himalal Baral
+title: Dr. Himlal Baral
 
 # Username (this should match the folder name)
 authors:
-- Dr. Alark Saxena
+- himlal
 
 # Is this the primary user of the site?
 superuser: false
