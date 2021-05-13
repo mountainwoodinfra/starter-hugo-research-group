@@ -1,5 +1,5 @@
 ---
-title: I. Background
+title: I.Background
 type: book  # Do not modify.
 toc: true
 ---
