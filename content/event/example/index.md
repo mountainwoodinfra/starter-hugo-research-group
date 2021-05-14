@@ -1,10 +1,10 @@
 ---
 title: Example Event
 
-event: Wood is Good Conference
+event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wood is Good HQ
+location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -38,3 +38,18 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+---
