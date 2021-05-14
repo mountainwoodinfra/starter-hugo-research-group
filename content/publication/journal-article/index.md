@@ -1,8 +1,8 @@
 ---
 title: "An example journal article"
 authors:
+- Dr. Ambika P. Gautam
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
