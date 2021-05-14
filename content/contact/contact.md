@@ -28,5 +28,5 @@ content:
 design:
   columns: '1'
 ---
-
+{{< figure library="true" src="contact.jpg">}}
 The secreteriate of the collaborative **Wood Infrastructure for Mountain Sustainability** project is hosted by Kathmandu Forestry College (KAFCOL).
