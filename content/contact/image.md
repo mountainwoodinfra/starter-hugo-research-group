@@ -12,17 +12,18 @@ weight: 10
 title:
 subtitle:
 
+
 design:
   columns: "1"
-  background:0
-    image:
-    image_darken:
-    image_parallax:
-    image_position:
-    image_size:
-    text_color_light:
+  background:
+    image: contact.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
   spacing:
-    padding:
+    padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---
