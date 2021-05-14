@@ -1,10 +1,10 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
+event: Wood is Good Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Wood is Good HQ
 address:
   street: 450 Serra Mall
   city: Stanford
