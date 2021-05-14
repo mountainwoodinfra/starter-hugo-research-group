@@ -14,7 +14,7 @@ subtitle:
 
 design:
   columns: "1"
-  background:
+  background:0
     image:
     image_darken:
     image_parallax:
