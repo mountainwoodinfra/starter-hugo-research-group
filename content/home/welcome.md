@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Feasibility of wood-based infrastructure in earthquake-prone urban Himalaya."
-subtitle: "Assessing the current situation, opportunities, and challenges, and developing a long-term strategy."
-hero_media: welcome.jpg
+subtitle: 
+hero_media: namaste.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,5 +16,4 @@ advanced:
   css_style:
   css_class:
 ---
-
-
+Assessing the current situation, opportunities, and challenges, and developing a long-term strategy.
