@@ -1,8 +1,8 @@
 ---
 title: "An example conference paper"
 authors:
-- Dr. Alark Saxena
-- Dr. Himlal Baral
+- Dr. Yeon-Su Kim
+- Mr. Anil Pokhrel
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
