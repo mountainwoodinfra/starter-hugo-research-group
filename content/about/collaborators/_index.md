@@ -5,6 +5,7 @@ toc: false
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 8
 ---
+{{< figure library="true" src="contact.jpg">}}
 1.	Dr. Alark Saxena is an Asst Professor, Human Dimensions of Forestry, School of Forestry, NAU [PROFILE](https://directory.nau.edu/person/as4635) EMAIL: alark.saxena@nau.edu 
 2.	Dr. Yeon-Su Kim is a Professor, Ecological Economics, School of Forestry NAU [PROFILE](https://directory.nau.edu/person/ysk) EMAIL: yeon-su.kim@nau.edu
 3.	Dr. Himlal Baral is a Senior Scientist, Climate Change Energy and Low Carbon Development  CIFOR-ICRAF [PROFILE](https://www.cifor.org/research-staff/3778/himlal-baral) EMAIL: h.baral@cgiar.org
