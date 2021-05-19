@@ -17,8 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigators
-  - Other Collaborators and Partner(s)
-  - Researcher(s)
+  - Other Collaborators and Partners
+  - Researcher
   - Grad Students
   - Web Admin
   - Visitors
