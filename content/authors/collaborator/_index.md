@@ -1,19 +1,19 @@
 ---
 # Display name
-title: -
+title:
 
 # Username (this should match the folder name)
 authors:
-- -
+-
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: -
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: -
+- name:
   url:
 
 # Short bio (displayed in user profile at end of posts)
