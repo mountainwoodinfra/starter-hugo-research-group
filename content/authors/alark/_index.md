@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Asst Professor, Human Dimensions of Forestry
+role: Asst Professor, Human Dimensions of Forestry, Northern Arizona University
 
 # Organizations/Affiliations
 organizations:
-- name: Northern Arizona University
-  url: "https://directory.nau.edu/person/as4635"
+- name: 
+  url:
 
 # Short bio (displayed in user profile at end of posts)
-
+Learn more about (Dr. Alark Saxena)[https://directory.nau.edu/person/as4635].
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
