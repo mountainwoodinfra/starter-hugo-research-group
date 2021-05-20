@@ -5,17 +5,17 @@ title: Mr. Anil Pokhrel
 # Username (this should match the folder name)
 authors:
 - Mr. Anil Pokhrel
-- 
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Chief Executive
+role: Chief Executive, National Disaster Risk Reduction & Management Authority, Government of Nepal
 
 # Organizations/Affiliations
 organizations:
-- name: National Disaster Risk Reduction & Management Authority, Government of Nepal
-  url: "https://www.linkedin.com/in/anil-pokhrel-b86b2837/"
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -50,3 +50,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Learn more about [Mr. Anil Pokhrel](https://www.linkedin.com/in/anil-pokhrel-b86b2837/)
