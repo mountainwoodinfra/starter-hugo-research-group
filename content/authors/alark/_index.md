@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asst Professor, Human Dimensions of Forestry, Northern Arizona University
+role: Asst Professor, Human Dimensions of Forestry, Northern Arizona University (NAU)
 
 # Organizations/Affiliations
 organizations:
