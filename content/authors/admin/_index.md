@@ -6,12 +6,12 @@ title: Mr. Sanjeeb Bhattarai
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor, Institute of Forestry, Tribuvan University
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Forestry, Tribuvan University
-  url: "https://www.sanjeeb.name.np/"
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -49,3 +49,4 @@ highlight_name: false
 user_groups:
 - Researcher
 ---
+Learn more about [Mr. Sanjeeb Bhattarai](https://www.sanjeeb.name.np/)
