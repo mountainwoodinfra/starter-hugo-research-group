@@ -18,7 +18,6 @@ organizations:
   url:
 
 # Short bio (displayed in user profile at end of posts)
-Learn more about [Dr. Alark Saxena](https://directory.nau.edu/person/as4635)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,3 +50,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Learn more about [Dr. Alark Saxena](https://directory.nau.edu/person/as4635)
