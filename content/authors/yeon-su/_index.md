@@ -10,13 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, School of Forestry
+role: Professor, School of Forestry, Northern Arizona University (NAU)
 
 # Organizations/Affiliations
 organizations:
-- name: Northern Arizona University
-  url: "https://directory.nau.edu/person/ysk"
-
+- name: 
+  url: 
 # Short bio (displayed in user profile at end of posts)
 
 # Social/Academic Networking
@@ -50,3 +49,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Learn more about [Dr. Yeon-Su Kim](https://directory.nau.edu/person/ysk)
