@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Scientist
+role: Senior Scientist, Center for International Forestry Research (CIFOR)
 
 # Organizations/Affiliations
 organizations:
-- name: Center for International Forestry Research (CIFOR)
-  url: "https://www.cifor.org/research-staff/3778/himlal-baral"
+- name: 
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -50,3 +50,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Learn more about [Dr. Himlal Baral](https://www.cifor.org/research-staff/3778/himlal-baral)
