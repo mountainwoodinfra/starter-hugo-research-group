@@ -28,3 +28,4 @@ design:
   show_role: true
   show_social: false
 ---
+{{< figure library="true" src="contact.jpg">}}
