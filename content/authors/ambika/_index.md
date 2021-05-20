@@ -10,13 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor and Principal
+role: Professor and Principal, Kathmandu Forestry College (KAFCOL)
 
 # Organizations/Affiliations
 organizations:
-- name: Kathmandu Forestry College (KAFCOL)
-  url: "https://www.kafcol.edu.np/faculty/#Dr.%20Ambika%20P.%20Gautam"
-
+- name: 
+  url: 
 # Short bio (displayed in user profile at end of posts)
 
 # Social/Academic Networking
@@ -50,3 +49,4 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+Learn more about [Dr. Ambika P. Gautam](https://www.kafcol.edu.np/faculty/#Dr.%20Ambika%20P.%20Gautam)
