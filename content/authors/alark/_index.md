@@ -14,7 +14,7 @@ role: Asst Professor, Human Dimensions of Forestry, Northern Arizona University 
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:
   url: 
 # Short bio (displayed in user profile at end of posts)
 
